@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Portugal", [B][COLOR red]--- Portugal ---[/COLOR][/B]
+http://0.0.0.0
+
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 1 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/texto timeout=15
+
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 2 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 3 [B][COLOR orange]FSD[/COLOR][/B]
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 3 / BENFICA TV 1/2 [B][COLOR orange]FSD[/COLOR][/B]
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=15 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 4 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://209.95.43.170:1935/stream/ playpath=0tkBo1519y0yBoVGgd2jl.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d2257g448sp7749l2257on14x7749ib7749b691pp7749l2257op7749l2257op7749l2257od2257g448sn448h69o&width=600&height=460&st=14l4t5n4w574x2s2f436q24693u5y3d3m5k5w2e4c4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=h564f4d4a4o574z2e4k554h5644494n23406h4a3f4w21374f476w226d3j475h3b474t2r5e4y3x223a4n284a4a444x2s24464n234n4q5e3h44494v213p4v2x4o4x585j3k5b4u2r5m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=OA==&str=is&ok=&cat=16&link=4&idom=/magellan
+
+#EXTINF:-1 group-title="Portugal", SPORT TV 5 [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://198.144.153.145:443/flash playpath=21649?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW timeout=10
+
+#EXTINF:-1 group-title="Portugal", SPORT TV AMERICAS [B][COLOR orange]FSD[/COLOR][/B]
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+
+#EXTINF:-1 group-title="Portugal", SPORT TV AMERICAS [B][COLOR orange]FSD[/COLOR][/B]
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
+
+#EXTINF:-1 group-title="Portugal", Benfica TV 1  [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://209.95.43.170:1935/stream/ playpath=9DOBo1519y0yBoXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d7816g463sp6829l7816on276x6829ib6829b885pp6829l7816op6829l7816op6829l7816od7816g463sn463h608o&width=600&height=460&st=a49315n4w574x2s2f436q24693u504a4s446u4n4n4s2x2b4f444y26403q2a4v2q2v2&adx=&stream=84q2n584b4m59464745434c4t2i5z2n2c4o4p3a3f4w21374f476w226d3j495e4h3r4r406p4y3x223a4n284a4a444x2s24464n2c4b3y4e3h44494v213p4v2x4o4x5a5g4q4v4s406m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=MTU=&str=is&ok=&cat=16&link=1&idom=magellan
+
+#EXTINF:-1 group-title="Portugal", Benfica TV 2  [B][COLOR orange]FSD[/COLOR][/B]
+rtmp://209.95.43.170:1935/stream/ playpath=0B8Bo1519y0yBotbWbGn2.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d318g307sp7582l318on881x7582ib7582b586pp7582l318op7582l318op7582l318od318g307sn307h116o&width=600&height=460&st=1473e4n4w574x2s2f436q24693u5s44465i5h3i4q2s2x2b4f444y26403q2a4v2q2v2&adx=&stream=546474n574c4t254n594r274w234b4n234m423a3f4w21374f476w226d3j41684v354e3v5s2y3x223a4n284a4a444x2s24464n23493b4e3h44494v213p4v2x4o4x526a44594f3v5m2a4c4l4m584s5w4q2y3o434242434s2s2o5i5v2j564b4e4348484a474w2y2c4o574o5a4140303b47403745494z2a4t2u2y3m234242434p2&sooor=Mg==&str=is&ok=&cat=16&link=1&idom=/magellan
+
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC[/B][/I][/COLOR]
+http://213.13.26.11:1935/live/sic/magellan.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI[/B][/I][/COLOR]
+http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC NOTICIAS [/B][/I][/COLOR]
+rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="rtp informaçao.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INFORMAÇÃO[/B][/I][/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP ÁFRICA[/B][/I][/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="rtp_memoria.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEMÓRIA[/B][/I][/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MADEIRA[/B][/I][/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP AÇORES[/B][/I][/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="etv_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]ECONÓMICO TV[/B][/I][/COLOR]
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="Euronews.png" group-title="PORTUGAL",[COLOR yellow][I][B]EURONEWS[/B][/I][/COLOR]
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="Euronews.png" group-title="PORTUGAL",[COLOR yellow][I][B]EURONEWS[/B][/I][/COLOR]
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+#EXTINF:-1 tvg-id="TPA" tvg-logo="tpa i.png" group-title="PORTUGAL",[COLOR yellow][I][B]TPA[/B][/I][/COLOR]
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="tcv.png" group-title="PORTUGAL",[COLOR yellow][I][B]TV CABO VERDE[/B][/I][/COLOR]
+rtmp://213.13.26.12/live playpath=rtc_teste swfUrl=http://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/v.ideojs.swf live=1 pageUrl=http://rd.videos.sapo.cv/playhtml?file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24 timeout=10
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="ARTV_Logo.png" group-title="PORTUGAL",[COLOR yellow][I][B]TV PARLAMENTO[/B][/I][/COLOR]
+rtsp://www.canal.parlamento.pt/Live
